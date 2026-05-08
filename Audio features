@@ -1,3 +1,4 @@
+1. Audio Features
 MFCC
 Delta MFCC
 Delta-Delta MFCC
@@ -10,3 +11,8 @@ Zero Crossing Rate
 RMS
 Onset Strength
 Waveform stats
+2. Semi-Supervised Learning 
+Pseudo-labeling
+Self Training with Noisy Student
+FixMatch
+3.
