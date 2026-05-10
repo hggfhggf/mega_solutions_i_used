@@ -15,4 +15,9 @@ Waveform stats
 Pseudo-labeling
 Self Training with Noisy Student
 FixMatch
-3.
+3. Image noise
+SaltPepper noise
+color jyttering
+random contrast shifts
+RGB shifts
+Guassian blur
